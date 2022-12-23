@@ -7,3 +7,6 @@ ansible
 nexus
 docker
 k8's
+route53
+cloudwatch
+sns
